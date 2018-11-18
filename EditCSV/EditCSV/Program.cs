@@ -66,7 +66,7 @@ namespace EditCSV
                             char[] charData = dataLines[i].ToCharArray();
                             string newLine = new string(charData.Where(c => !char.IsPunctuation(c)).ToArray());
                             newLine = newLine.Replace(System.Environment.NewLine, " ");
-                            csvLines.Add(split[0] + ", " + newLine);
+                            csvLines.Add(split[0] + "," + newLine);
                         }
                         i++;
                     }
