@@ -1,0 +1,7 @@
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\bin\Debug\TextProcessing.exe.config
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\bin\Debug\TextProcessing.exe
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\bin\Debug\TextProcessing.pdb
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\obj\Debug\TextProcessing.csprojAssemblyReference.cache
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\obj\Debug\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\obj\Debug\TextProcessing.exe
+C:\Users\HTCDL\Desktop\Dane\text processing\TextProcessing\TextProcessing\TextProcessing\obj\Debug\TextProcessing.pdb

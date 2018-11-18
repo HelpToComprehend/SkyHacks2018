@@ -1,0 +1,12 @@
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\obj\x64\Debug\AzureDataTransmission.csprojAssemblyReference.cache
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\obj\x64\Debug\AzureDataTransmission.csproj.CoreCompileInputs.cache
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\AzureDataTransmission.exe.config
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\AzureDataTransmission.exe
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\AzureDataTransmission.pdb
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\obj\x64\Debug\AzureDataTransmission.csproj.CopyComplete
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\obj\x64\Debug\AzureDataTransmission.exe
+C:\Users\HTCDL\Desktop\Dane\AzureApi\AzureDataTransmission\AzureDataTransmission\obj\x64\Debug\AzureDataTransmission.pdb
