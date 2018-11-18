@@ -1,0 +1,7 @@
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\bin\Debug\EditCSV.exe.config
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\bin\Debug\EditCSV.exe
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\bin\Debug\EditCSV.pdb
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\obj\Debug\EditCSV.csprojAssemblyReference.cache
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\obj\Debug\EditCSV.csproj.CoreCompileInputs.cache
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\obj\Debug\EditCSV.exe
+C:\Users\HTCDL\Desktop\Dane\EditCSV\EditCSV\EditCSV\obj\Debug\EditCSV.pdb
